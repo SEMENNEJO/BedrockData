@@ -1,0 +1,7 @@
+{
+    "name": "semennejo/bedrock-data",
+    "description": "Blobs of data generated from Minecraft: Pocket Edition and Bedrock Edition used by Submarine Core",
+    "type": "library",
+    "license": "CC0-1.0",
+    "require": {}
+}
