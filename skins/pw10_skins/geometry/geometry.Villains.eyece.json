@@ -3,7 +3,7 @@
     "minecraft:geometry": [
         {
             "description": {
-                "identifier": "geometry.Villains.eyece ",
+                "identifier": "geometry.Villains.eyece",
                 "texture_width": 64,
                 "texture_height": 64
             },
